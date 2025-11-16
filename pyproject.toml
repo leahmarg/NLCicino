@@ -1,0 +1,10 @@
+[project]
+name = "nlcicino"
+version = "0.1.0"
+description = "vivino oh ya wo ya"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "beautifulsoup4>=4.14.2",
+    "httpx>=0.28.1",
+]
